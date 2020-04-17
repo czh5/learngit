@@ -1,2 +1,2 @@
 ﻿Git is a wonderful version control system
-Git is free 
+Git is free , it is so good
